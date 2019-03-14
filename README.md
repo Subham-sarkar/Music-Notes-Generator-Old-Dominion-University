@@ -17,7 +17,7 @@ $ python train.py
 
 To sample the model:
 ```bash
-$ python sample.py 100
+$ python sample.py 810
 ```
 
 Training loss/accuracy is stored in `logs/training_log.csv`.
