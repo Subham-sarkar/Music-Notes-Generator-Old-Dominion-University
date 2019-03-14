@@ -1,0 +1,20 @@
+* model trained over 2887 tunes
+sample output....
+
+
+X: 963
+T:Storrers' Jig
+% Nottingham Music Database
+S:Mike Richardson 26.89, via Phil Rowe
+M:6/8
+K:G
+D|"G"G3 G2B|"D7"A3 -A3|"G"d2B B2B|"D7"A3 -A3|"G"d3 d3|\
+"C"g3 -gfe|"G"d3 A3|"G"B3 B3 B3|"D7"c6|
+"Am"c2E E2F|"D7"D3 ^G3|"D7"A6|F3 A2G|"D7"F3 E3|
+"D"D3 -DDF|A6|"Em"E6-|E3 B,3|"B7"F3 B^AB|d3 ^c2B|"Em"e6|"Em"e6-|B2A F2G|
+"Am"c3 -c2B|c2e g3|"B7"^f2e f2B|"Em"e3 e3|"E7"e3 e3|"A7"F3 -A3 c2B|
+"Am"c3 B3|"D"A3 "G"B3|"G"G3 -G6|G6|"F"A2d c3|"G"d3 B3|F2G A2d|
+KE7"^A2^F D3|"D7"A3 -A3 D^CD|"G"G3 PF2=F|"G"G3 G2F||
+"G"d3 GAF|"C"EFG B,CC|"D7"B,2E DEF|"D"A3 -"G"Bcd|"Em"e6|"Am"c2B A3|"D7"d3 c2B| [1"G"G3 "Em"e3||
+P:B
+"D"

@@ -1,0 +1,39 @@
+~[oararcs
+% Nottingham Music Database
+S:via PR
+M:4/4
+L:1/4
+K:D
+A/2B/2|"A"cA/2c/2 B/2c/2d/2e/2|"D"f/2d/2F/2A/2 "A7"d/2c/2B/2A/2|\
+"D"dd "A"c/2e/2c/2A/2|"G"B/2A/2G/2F/2 Gd/2c/2|"A"cA A::
+A|"D"(D cd/2A/2 d/2A/2F/2d/2|"A"c/2E/2c/2e/2 ge/2f/2|\
+"A"e/2c/2e/2g/2 a/2g/2f/2e/2|
+"D"f/2a/2a/2f/2 d/2f/2e/2d/2|"A7"ef/2g/2 "D"a/2g/2f/2d/2|\
+"G"e/2d/2B/2c/2 "A"AE/2G/2|"D"FD D2:|
+
+
+X: 786
+T:Marich of Said In
+% Nottingham Music Database
+S:JiS McQuillen Jun 1977, via PR
+M:4/4
+L:1/4
+K:G
+DD |"G"DG AB/2c/2|"G"dc "D7"B3/2A/2|"G"G/2A/2B/2c/2 dB|"C"ef ef/2e/2|
+"G"dd dc/2B/2|"D7"A3/2B/2 cd|"G"BG GB/2c/2|"G"dg bg/2g/2|
+"Em"ge "D"f2|"C"e3/2d/2 "G"ed|"Am"cA A2|\
+"D7"Ad e3/2d/2|
+"C"e/2d/2c/2B/2 c"G"d|"Am"cA "D7"de|"G"dB GA/2B/2|"C"cB "D"AB/2A/2|"A"GA "D"DB|\
+ [1"G"e/2d/2B/2d/2 "C/g"ce| [1"Em"dc "D"B2:|[2"D"AG G:|
+
+
+X: 476
+T:Backshond Rigss
+% Nottingham Music Database
+S:Old time, via PR
+M:4/4
+L:1/4
+K:A
+E|"A
+"A"BA AB/2A/2|"E"GE E/2F/2G/2B/2|"A"Ac/2A/2 Be|c/2B/2A A3/2A/2|
+"G"==GB BG|"A"a/2g/2a/2f/2 e/2c/2A/2c/2|"Bm"B/2A/2B/2c/2 "E7"d/2e/2d/
